@@ -8,3 +8,9 @@ https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289
 
 done
 
+mist and dapp
+https://ethereum.stackexchange.com/questions/27436/how-is-hosting-of-a-dapp-done
+https://www.youtube.com/watch?v=IgNjs_WaFSc
+
+Android — Jokes REST API call with Rx Java
+https://medium.com/@nicolas.duponchel/rx-java-for-beginners-8b7c1e7bfc44
