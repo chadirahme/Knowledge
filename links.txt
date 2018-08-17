@@ -8,3 +8,6 @@ https://media.consensys.net/blockchain-vs-distributed-ledger-technologies-1e0289
 
 done
 
+mist and dapp
+https://ethereum.stackexchange.com/questions/27436/how-is-hosting-of-a-dapp-done
+https://www.youtube.com/watch?v=IgNjs_WaFSc
