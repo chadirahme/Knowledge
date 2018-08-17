@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=IgNjs_WaFSc
 
 Android — Jokes REST API call with Rx Java
 https://medium.com/@nicolas.duponchel/rx-java-for-beginners-8b7c1e7bfc44
+
+solidity editor
+https://www.withpragma.com/editor
