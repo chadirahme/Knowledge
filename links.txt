@@ -17,3 +17,8 @@ https://medium.com/@nicolas.duponchel/rx-java-for-beginners-8b7c1e7bfc44
 
 solidity editor
 https://www.withpragma.com/editor
+
+angular nodejs
+https://www.codeproject.com/Articles/1207118/Learn-Angular-Tutorial
+
+https://github.com/Nikhil22/angular-truffle-starter-dapp
