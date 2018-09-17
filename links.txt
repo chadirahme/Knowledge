@@ -22,3 +22,7 @@ angular nodejs
 https://www.codeproject.com/Articles/1207118/Learn-Angular-Tutorial
 
 https://github.com/Nikhil22/angular-truffle-starter-dapp
+
+
+angular6 admin template
+https://github.com/start-angular/SB-Admin-BS4-Angular-6/blob/master/README.md
