@@ -26,3 +26,7 @@ https://github.com/Nikhil22/angular-truffle-starter-dapp
 
 angular6 admin template
 https://github.com/start-angular/SB-Admin-BS4-Angular-6/blob/master/README.md
+
+
+Printing invoice
+https://www.youtube.com/watch?v=383n8AxQ4CA
