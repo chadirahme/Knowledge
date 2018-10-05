@@ -30,3 +30,7 @@ https://github.com/start-angular/SB-Admin-BS4-Angular-6/blob/master/README.md
 
 Printing invoice
 https://www.youtube.com/watch?v=383n8AxQ4CA
+
+
+How to Become a Blockchain Developer
+https://www.bitdegree.org/tutorials/blockchain-developer/
