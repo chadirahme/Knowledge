@@ -1,0 +1,22 @@
+  docker container ls -a
+	docker rmi $(docker images -q)
+	docker rm -f $(docker ps -a -q)
+  docker volume rm $(docker volume ls -q)
+
+	 docker-compose up -d
+
+save my date :(
+yum --showduplicates list java-1.8.0-openjdk-devel
+then install jdk
+sudo yum install (first one from the list aboove example > java-1.8.0-openjdk-)
+ sudo yum install java-1.8.0-openjdk-devel.x86_64
+ 
+ 
+ sudo curl -L "https://github.com/docker/compose/releases/download/1.23.0-rc3/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+
+docker-compose --version
+
+install maven
+wget http://www.eng.lsu.edu/mirrors/apache/maven/maven-3/3.2.3/binaries/apache-maven-3.2.3-bin.zip
+http://httpd-mirror.sergal.org/apache/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.zip
