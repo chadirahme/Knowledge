@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=383n8AxQ4CA
 
 How to Become a Blockchain Developer
 https://www.bitdegree.org/tutorials/blockchain-developer/
+
+ANgular7 with JWT and Springboot
+https://www.devglan.com/angular/angular-7-crud-example
